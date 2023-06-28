@@ -1,6 +1,6 @@
 # Group 12 Hackathon Project
 # Mystery Hostel Horror Game
-## DESCRIPTION OF THR GAME
+## DESCRIPTION OF THE GAME
  "Mystery Hostel Game" is an immersive and suspenseful adventure game that plunges you into the eerie atmosphere of a haunted hostel on a stormy night. As the protagonist, you awaken in your new hostel room only to find yourself trapped. Your objective is to navigate through the dark corridors, unravel the hostel's secrets, and ultimately find a way to escape. 
 
  The game offers a captivating blend of exploration, puzzle-solving, and mystery. Every room in the hostel holds its own secrets and challenges, requiring you to carefully investigate your surroundings and uncover hidden clues. Be prepared to solve intricate puzzles, decode riddles, and overcome obstacles to progress in your quest for freedom.
