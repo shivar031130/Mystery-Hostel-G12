@@ -1,3 +1,6 @@
+![Screenshot (105)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/9f17a709-b6f9-42c6-a615-24022de4d68d)
+![Uploading Screenshot (103).png…]()
+![Screenshot (102)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/f6cdecd6-1998-41d1-ab4c-cdf28075e530)
 # Group 12 Hackathon Project
 # Mystery Hostel Horror Game
 ## DESCRIPTION OF THE GAME
@@ -84,14 +87,13 @@ In the context of the game "Mystery Hostel," linked lists used to represent inte
 
 5. Backtracking and Undoing Actions: The previous nodes in the linked list leveraged to facilitate backtracking and undoing actions within the game. If the player makes a wrong decision or wants to retrace their steps, they can traverse the linked list backward, moving to the previous room (node) in the sequence. This allows the player to revisit previously explored areas or undo certain actions, enhancing the gameplay experience.
 ## SCREENSHOTS OF THE GAME
-1. ![Screenshot (97)](https://github.com/shivar031130/sample/assets/121498905/30f1207e-9ee0-4410-bdb3-5497bc0ca28d)
-2. ![Screenshot (98)](https://github.com/shivar031130/sample/assets/121498905/dddc0e9e-c197-4071-a5c9-d6e215f3bdda)
-3. ![Screenshot (99)](https://github.com/shivar031130/sample/assets/121498905/1ae0dd01-9ef1-47f4-9c58-6ed6b24cd67d)
-4. ![Screenshot (100)](https://github.com/shivar031130/sample/assets/121498905/abdf4704-1bf1-4503-a79a-9fd289e4781e)
-5. ![Screenshot (103)](https://github.com/shivar031130/sample/assets/121498905/fa09558b-53a7-4a89-ab3a-e3f3e3d06842)
-6. ![Screenshot (104)](https://github.com/shivar031130/sample/assets/121498905/59ed10a5-a4b0-44db-9a38-3dcaea401a31)
-7. ![Screenshot (105)](https://github.com/shivar031130/sample/assets/121498905/a75b4ca5-1472-4706-b39c-8c70eb954e14)
-8. ![Screenshot (102)](https://github.com/shivar031130/sample/assets/121498905/e7589b50-c432-445d-987d-72fcce3839d8)
+1.![Screenshot (98)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/0796ab88-243e-45a2-8d66-65eb3e06018e)
+2.![Screenshot (99)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/a3befc08-8605-4c66-bb49-5e1393aedccf)
+3.![Screenshot (100)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/b709d0ed-7602-4d0b-8137-f221d4caacdc)
+4.![Screenshot (101)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/0c05f7fc-84bf-4454-b454-090705f5df24)
+5.
+
+
 ## GAME DEMO VIDEO
 https://youtu.be/lJD80YlS_eE
 
