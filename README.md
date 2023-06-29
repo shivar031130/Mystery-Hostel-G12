@@ -1,6 +1,3 @@
-![Screenshot (105)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/9f17a709-b6f9-42c6-a615-24022de4d68d)
-![Uploading Screenshot (103).png…]()
-![Screenshot (102)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/f6cdecd6-1998-41d1-ab4c-cdf28075e530)
 # Group 12 Hackathon Project
 # Mystery Hostel Horror Game
 ## DESCRIPTION OF THE GAME
@@ -90,8 +87,10 @@ In the context of the game "Mystery Hostel," linked lists used to represent inte
 1.![Screenshot (98)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/0796ab88-243e-45a2-8d66-65eb3e06018e)
 2.![Screenshot (99)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/a3befc08-8605-4c66-bb49-5e1393aedccf)
 3.![Screenshot (100)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/b709d0ed-7602-4d0b-8137-f221d4caacdc)
-4.![Screenshot (101)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/0c05f7fc-84bf-4454-b454-090705f5df24)
-5.
+4.![Screenshot (104)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/96f76078-a762-4e8a-a69d-73178ee70b89)
+5.![Screenshot (105)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/5d3257e2-ce5d-428f-86f5-cb08b3dd2524)
+6.![Screenshot (101)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/0c05f7fc-84bf-4454-b454-090705f5df24)
+7.![Screenshot (102)](https://github.com/shivar031130/Mystery-Hostel-G12/assets/121498905/82442ea5-473b-4275-b086-d805fbcb6cb4)
 
 
 ## GAME DEMO VIDEO
